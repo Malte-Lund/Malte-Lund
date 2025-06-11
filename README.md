@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Malte-Lund
 - 👨‍⚕️ I'm a medical doctor doing my Ph.d. in exercise studies for patients with rare autoimmune diseases.
+- 👨‍⚕️ At the moment I'm doing my specialization in Rheumatology at Glostrup Hospital.
 - 👀 I’m interested in Medical Research; Especially the statistics part, and the openness of version control exploitable by Git
 - 🌱 I’m currently learning R, Git, and how to treat patients with rare autoimmune disease.
 - 💞️ I’m looking to collaborate on medical research.
